@@ -6,6 +6,6 @@ Repositorio para revisión de prácticas de Instrumentación virtual aplicada.
 
 - Andrea del Carmen Carranza Perales.
 
-- Jovana Paola Muñoz Fraire.
+- Jovana Paola Muñoz Frayre.
 
 - Kassandra Ramirez Sanchez.
